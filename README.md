@@ -19,3 +19,12 @@ The fine-tuned model can be found [here](https://huggingface.co/riiiwtff/whisper
 
 CER: 0.0702
 
+## 3. NPTEL2020-Indian-English-Speech-Dataset
+The dataset can be found [here](https://github.com/AI4Bharat/NPTEL2020-Indian-English-Speech-Dataset)
+
+The model can be found [here](https://github.com/riyasachdeva04/asr1/blob/main/assignment_2/indian_accents.ipynb)
+
+BEST CER: 0.0
+
+Average CER: 0.25327
+
